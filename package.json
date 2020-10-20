@@ -1,0 +1,29 @@
+{
+  "name": "gnreteste",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@fidm/x509": "^1.2.1",
+    "body-parser": "^1.19.0",
+    "chalk": "^4.1.0",
+    "constants": "0.0.2",
+    "express": "^4.17.1",
+    "express-formidable": "^1.2.0",
+    "gnre-auto": "^0.1.3",
+    "js-x509-utils": "^1.0.0",
+    "nfe-io": "^1.0.0",
+    "node-forge": "^0.10.0",
+    "node-rsa": "^1.1.1",
+    "pem": "^1.14.4",
+    "soap": "^0.33.0",
+    "soap-x509-http": "^1.0.2",
+    "tls": "0.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
